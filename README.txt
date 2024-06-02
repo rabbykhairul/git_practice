@@ -11,3 +11,6 @@ Hello Git and GitHub bye
 - eight
 - nine - change
 - ten - change
+- ten
+- eleven
+- twelve
