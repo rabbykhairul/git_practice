@@ -1,4 +1,4 @@
-Hello Git and GitHub ok?
+Hello Git and GitHub bye
 ---
 
 - First commit using sapling
