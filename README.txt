@@ -7,3 +7,4 @@ Hello Git and GitHub bye
 - four
 - five
 - six
+- seven
